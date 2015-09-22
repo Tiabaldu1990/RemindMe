@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Цвет ToolBar -->
     <color name="colorPrimary">#3F51B5</color>
+    <!-- Цвет ActionBar -->
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <!-- Цвет фона приложения -->
+    <color name="mainBackground">#e2e2e2</color>
 </resources>
